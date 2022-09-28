@@ -1,2 +1,2 @@
 # Tableau
-Analyzing the Football Premier Leageu
+Analyzing the Football Premier League
